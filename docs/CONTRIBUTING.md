@@ -7,7 +7,7 @@
 
 1. Fork Mobile Detect repository. See ["How to fork"](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository) example.
 1. `git clone https://github.com/[yourname]/Mobile-Detect.git`
-1. `git add remote serbanghita https://github.com/serbanghita/Mobile-Detect.git`
+1. `git remote add serbanghita https://github.com/serbanghita/Mobile-Detect.git`
 1. `git remote -v` - You should see:
     ```
     origin       git@github.com:serbanghita/Mobile-Detect.git
